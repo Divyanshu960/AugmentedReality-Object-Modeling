@@ -1,6 +1,3 @@
 # Augmented Reality App
  
-  
-  
    
-  
