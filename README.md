@@ -12,4 +12,5 @@ Using Vuforia Engine
 
 ## After Android Build
 
-![beforeBuild](https://github.com/Divyanshu960/AugmentedReality/assets/72182690/82675084-8838-48b3-9982-fe724a1ac67b)
+![beforeBuild](https://github.com/Divyanshu960/AugmentedReality/assets/72182690/4b354761-718d-4c74-9ce5-1b0e8e2c253d)
+
